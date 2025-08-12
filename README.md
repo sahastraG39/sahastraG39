@@ -1,7 +1,6 @@
 ## Hi there I'm Sahastra Gunasegaram👋
 ![](https://komarev.com/ghpvc/?username=sahastraG39&color=grey)
-<
-<h3>When I code, I rely on</h3>
+<h3>Tech and Tools</h3>
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Statistics" src="https://img.shields.io/badge/-Statistics-4B0082?style=flat-square&logo=google-analytics&logoColor=white" />
