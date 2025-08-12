@@ -17,7 +17,8 @@
 
 
 ## 🔢 Optimization & OR Tools  
-<img alt="PuLP" src="https://img.shields.io/badge/-PuLP-FF8C00?style=flat-square&logo=engineering&logoColor=white" /> <img alt="Gurobi" src="https://img.shields.io/badge/-Gurobi-141414?style=flat-square&logo=grub&logoColor=white" /> <img alt="NetworkX" src="https://img.shields.io/badge/-NetworkX-4C4C4C?style=flat-square&logo=networkx&logoColor=white" />
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![LINGO](https://img.shields.io/badge/LINGO-FF6F00?style=for-the-badge&logo=matrix&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 🗄 Databases & Storage  
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img alt="Pinecone" src="https://img.shields.io/badge/-Pinecone-0050C5?style=flat-square&logo=pinecone&logoColor=white" />
