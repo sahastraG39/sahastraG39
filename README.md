@@ -13,8 +13,6 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I love solving puzzles and exploring new data visualization techniques!
-
 <h3>Tech and Tools</h3>
 <p>
   
@@ -41,17 +39,4 @@
 ## 👥 Collaboration & Development  
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Cursor AI" src="https://img.shields.io/badge/-Cursor%20AI-000000?style=flat-square&logo=cursor&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
-
-
-
-
-  
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
   >
