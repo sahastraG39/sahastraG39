@@ -2,19 +2,28 @@
 ![](https://komarev.com/ghpvc/?username=sahastraG39&color=grey)
 <h3>Tech and Tools</h3>
 <p>
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Statistics" src="https://img.shields.io/badge/-Statistics-4B0082?style=flat-square&logo=google-analytics&logoColor=white" />
-<img alt="Operations Research" src="https://img.shields.io/badge/-Operations%20Research-800000?style=flat-square&logo=matrix&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Cursor AI" src="https://img.shields.io/badge/-Cursor%20AI-000000?style=flat-square&logo=cursor&logoColor=white" />
-<img alt="LangChain" src="https://img.shields.io/badge/-LangChain-2E8B57?style=flat-square&logo=chainlink&logoColor=white" />
-<img alt="OpenAI GPT" src="https://img.shields.io/badge/-OpenAI%20GPT-412991?style=flat-square&logo=openai&logoColor=white" />
-<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white" />
+<img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
 <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img alt="Statsmodels" src="https://img.shields.io/badge/-Statsmodels-FF6C37?style=flat-square&logo=statsmodels&logoColor=white" />
+<img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+<img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4C88E3?style=flat-square&logo=seaborn&logoColor=white" />
+<img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4E5A?style=flat-square&logo=plotly&logoColor=white" />
+<img alt="PuLP" src="https://img.shields.io/badge/-PuLP-FF8C00?style=flat-square&logo=engineering&logoColor=white" />
+<img alt="Gurobi" src="https://img.shields.io/badge/-Gurobi-141414?style=flat-square&logo=grub&logoColor=white" />
+<img alt="NetworkX" src="https://img.shields.io/badge/-NetworkX-4C4C4C?style=flat-square&logo=networkx&logoColor=white" />
+<img alt="OpenAI GPT" src="https://img.shields.io/badge/-OpenAI%20GPT-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="LangChain" src="https://img.shields.io/badge/-LangChain-2E8B57?style=flat-square&logo=chainlink&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
 
 
   
