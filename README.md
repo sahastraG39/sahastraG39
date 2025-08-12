@@ -1,17 +1,14 @@
 ## Hi there I'm Sahastra Gunasegaram👋
 ![](https://komarev.com/ghpvc/?username=sahastraG39&color=grey)
 
-🔭 I’m currently working on building AI-powered tools using Python and Cursor AI at Yarl IT Hub’s AI Incubation Program.
+**About Me**
 
-🌱 I’m currently learning  how to build scalable, secure AI-powered applications.
+I’m an undergraduate in Statistics and Operations Research. I’ve worked on projects like customer personality data analysis and building an AI legal document explainer using NLP and large language models.
 
-👯 I’m looking to collaborate on projects involving NLP, LLM , and decision optimization.
+Currently, I’m developing AI tools with Python and Cursor AI at Yarl IT Hub’s AI Incubation Program. I’m learning to build scalable, secure AI applications and looking to collaborate on NLP, LLMs, and decision optimization projects.
 
-🤔 I’m looking for help with best practices for deploying AI models securely in cloud environments.
-
-📫 How to reach me: [arthygunam63@gmail.com.com] or connect on [LinkedIn](https://www.linkedin.com/in/sahastra-gunasegaram?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrXuA8rneSb2lHo1jV7ZZ7g%3D%3D)
-
-😄 Pronouns: She/Her
+Reach me at: 📧 [arthygunam63@gmail.com](mailto:arthygunam63@gmail.com)  
+🔗 [LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sahastra-gunasegaram?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrXuA8rneSb2lHo1jV7ZZ7g%3D%3D))
 
 <h3>Tech and Tools</h3>
 <p>
