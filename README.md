@@ -7,8 +7,7 @@ I’m an undergraduate in Statistics and Operations Research. I’ve worked on p
 
 Currently, I’m developing AI tools with Python and Cursor AI at Yarl IT Hub’s AI Incubation Program. I’m learning to build scalable, secure AI applications and looking to collaborate on NLP, LLMs, and decision optimization projects.
 
-Reach me at: 📧 [arthygunam63@gmail.com](mailto:arthygunam63@gmail.com)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sahastra-gunasegaram?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrXuA8rneSb2lHo1jV7ZZ7g%3D%3D))
+Reach me at: 📧 [arthygunam63@gmail.com](mailto:arthygunam63@gmail.com)  [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sahastra-gunasegaram?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrXuA8rneSb2lHo1jV7ZZ7g%3D%3D))
 
 <h3>Tech and Tools</h3>
 <p>
