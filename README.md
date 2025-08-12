@@ -1,10 +1,10 @@
 ## Hi there I'm Sahastra Gunasegaram👋
-
+![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
 <
 <h3>When I code, I rely on</h3>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Statistics" src="https://img.shields.io/badge/-Statistics-4B0082?style=flat-square&logo=google-analytics&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="Statistics" src="https://img.shields.io/badge/-Statistics-4B0082?style=flat-square&logo=google-analytics&logoColor=white" />
 <img alt="Operations Research" src="https://img.shields.io/badge/-Operations%20Research-800000?style=flat-square&logo=matrix&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Cursor AI" src="https://img.shields.io/badge/-Cursor%20AI-000000?style=flat-square&logo=cursor&logoColor=white" />
@@ -16,8 +16,7 @@
 <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white" />
 <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Yarl IT Hub" src="https://img.shields.io/badge/-Yarl%20IT%20Hub-FF4500?style=flat-square&logo=codeforces&logoColor=white" />
-<img alt="AI Incubation Program" src="https://img.shields.io/badge/-AI%20Incubation%20Program-8A2BE2?style=flat-square&logo=artstation&logoColor=white" />
+
 
   
 - 🔭 I’m currently working on ...
