@@ -30,8 +30,7 @@ Reach me at: [arthygunam63@gmail.com](mailto:arthygunam63@gmail.com) /  [LinkedI
 
 
 ## 🗄 Databases & Storage  
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img alt="Pinecone" src="https://img.shields.io/badge/-Pinecone-0050C5?style=flat-square&logo=pinecone&logoColor=white" />
-
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> 
 ## 👥 Collaboration & Development  
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Cursor AI" src="https://img.shields.io/badge/-Cursor%20AI-000000?style=flat-square&logo=cursor&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
